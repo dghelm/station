@@ -1,5 +1,7 @@
 # Terra Station
 
+[![Add to Homescreen](https://img.shields.io/badge/Skynet-Add%20To%20Homescreen-00c65e?logo=skynet&labelColor=0d0d0d)](https://homescreen.hns.siasky.net/#/skylink/AQBB1GuEXGFOea6pmmyaL_o0XYbN_TNdF3pKYDlaM8KD6A)
+
 ![Banner](Logo.png)
 
 **Terra Station** is a web application to interact with [Terra Core](https://github.com/terra-money/core).
@@ -15,12 +17,15 @@ Terra Station allows users to:
 
 This guide explains how you can set up Terra Station repositories for local development.
 ​
+
 ### Add `local.terra.money` to `/etc/hosts`
+
 ​
 This will prevent any CORS issues when using API calls.
 ​
 Add the following entry to your `/etc/hosts` file:
 ​
+
 ```
 127.0.0.1 local.terra.money
 ```

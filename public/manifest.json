@@ -1,7 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "Terra Station",
+  "name": "Terra Station UNOFFICIAL",
+  "short_name": "Terra Station UNOFFICIAL",
   "description": "Interact with Terra Core",
+  "theme_color": "#0c3694",
   "version": "1.21.2",
   "options_ui": {
     "page": "index.html"
@@ -29,5 +31,5 @@
   },
   "permissions": ["storage"],
   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
-  "skylink": ""
+  "skylink": "AQBB1GuEXGFOea6pmmyaL_o0XYbN_TNdF3pKYDlaM8KD6A"
 }
