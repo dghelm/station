@@ -24,3 +24,4 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           registry-seed: ${{ secrets.SKYNET_REGISTRY_SEED || '' }}
           try-files: index.html /index.html
+          portal-url: https://eu-ger-3.siasky.net
