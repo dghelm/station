@@ -1,6 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Terra Station",
+  "description": "Interact with Terra Core",
   "version": "1.21.2",
   "options_ui": {
     "page": "index.html"
@@ -27,5 +28,6 @@
     "180": "icon-180.png"
   },
   "permissions": ["storage"],
-  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+  "skylink": ""
 }
